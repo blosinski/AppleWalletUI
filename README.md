@@ -1,6 +1,6 @@
 # AppleWalletUI
 
-I use Apple Wallet for almost every purchase and I wanted to create a similar UI to the current Apple Wallet. I changed a few things compared to the original such as colors, UI, and gradient backgrounds. 
+I use Apple Wallet for almost every purchase and I wanted to create a similar UI to the current Apple Wallet. I created a replica of Apple Wallet using SwiftUI, I changed a few things compared to the original such as colors, UI, and gradient backgrounds. 
 
 
 
